@@ -13,6 +13,7 @@ public class fizzString2 {
             return n + "!";
         }
 
+
     }
 
 }
